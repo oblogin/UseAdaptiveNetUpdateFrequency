@@ -1,0 +1,2 @@
+# UseAdaptiveNetUpdateFrequency
+Activate UseAdaptiveNetUpdateFrequency
