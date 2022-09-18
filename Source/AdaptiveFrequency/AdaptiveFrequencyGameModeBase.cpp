@@ -3,3 +3,7 @@
 
 #include "AdaptiveFrequencyGameModeBase.h"
 
+bool AAdaptiveFrequencyGameModeBase::PrintAdaptiveNetUpdateFrequencyEnabled()
+{
+	return UNetDriver::IsAdaptiveNetUpdateFrequencyEnabled();
+}
